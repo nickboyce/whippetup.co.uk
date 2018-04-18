@@ -1,1 +1,1 @@
-# source files for whippetup.co.uk
+Source files for whippetup.co.uk
